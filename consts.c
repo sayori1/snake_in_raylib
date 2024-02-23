@@ -1,0 +1,17 @@
+#ifndef CONSTS
+#define CONSTS
+
+#define FPS 60
+
+#define BLOCK_WIDTH 32
+#define BLOCK_HEIGHT 32
+
+#define SCREEN_WIDTH 640
+#define SCREEN_HEIGHT 640
+
+#define SNAKE_INIT_LENGTH 5
+
+#define AREA_WIDTH SCREEN_WIDTH / BLOCK_WIDTH
+#define AREA_HEIGHT SCREEN_HEIGHT / BLOCK_HEIGHT
+
+#endif
