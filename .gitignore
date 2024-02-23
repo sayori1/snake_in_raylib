@@ -1,3 +1,3 @@
-Makefile
-Makefile.Android
-libs/*
+.Makefile
+.Makefile.Android
+.libs/*
